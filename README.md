@@ -566,7 +566,7 @@ Email verification helps our support team verify ownership if you lose account a
 
   <div class="commit file-history-tease">
     <div class="file-history-tease-header">
-        <img alt="Heather Glenn Wade" class="avatar" data-user="342996" height="24" src="https://avatars0.githubusercontent.com/u/342996?v=3&amp;s=48" width="24" />
+        <img alt="Vasudevan Srinivasan" class="avatar" data-user="342996" height="24" src="https://avatars0.githubusercontent.com/u/342996?v=3&amp;s=48" width="24" />
         <span class="author"><a href="/hglennrock" rel="author">hglennrock</a></span>
         <time datetime="2014-04-27T19:11:53Z" is="relative-time">Apr 27, 2014</time>
         <div class="commit-title">
@@ -587,7 +587,7 @@ Email verification helps our support team verify ownership if you lose account a
       <h2 class="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list">
           <li class="facebox-user-list-item">
-            <img alt="Heather Glenn Wade" data-user="342996" height="24" src="https://avatars0.githubusercontent.com/u/342996?v=3&amp;s=48" width="24" />
+            <img alt="Vasudevan S" data-user="342996" height="24" src="https://avatars0.githubusercontent.com/u/342996?v=3&amp;s=48" width="24" />
             <a href="/hglennrock">hglennrock</a>
           </li>
       </ul>
@@ -632,7 +632,7 @@ Email verification helps our support team verify ownership if you lose account a
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h2>
 <a id="user-content-getting-and-cleaning-data-project" class="anchor" href="#getting-and-cleaning-data-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting and Cleaning Data Project</h2>
 
-<p>Heather Wade</p>
+<p>Vasudevan S </p>
 
 <p>Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
 
