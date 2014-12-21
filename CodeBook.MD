@@ -10,7 +10,7 @@
     <meta http-equiv="Content-Language" content="en">
     
     
-    <title>getting-cleaning-data-project/README.md at master · hglennrock/getting-cleaning-data-project</title>
+    <title>getting-cleaning-data-project/CodeBook.MD at master · hglennrock/getting-cleaning-data-project</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -34,7 +34,7 @@
     <meta name="selected-link" value="repo_source" data-pjax-transient>
       <meta name="google-analytics" content="UA-3769691-2">
 
-    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="B64197AB:2FD4:DA7AF4:549720FE" name="octolytics-dimension-request_id" /><meta content="9860688" name="octolytics-actor-id" /><meta content="vasishere" name="octolytics-actor-login" /><meta content="ae484680bb88f923464afe3f110e49dd6b6aaa7e4598d2df721486ab062cb78c" name="octolytics-actor-hash" />
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="B64197AB:634E:11104B8:549720EC" name="octolytics-dimension-request_id" /><meta content="9860688" name="octolytics-actor-id" /><meta content="vasishere" name="octolytics-actor-login" /><meta content="ae484680bb88f923464afe3f110e49dd6b6aaa7e4598d2df721486ab062cb78c" name="octolytics-actor-hash" />
     
     <meta content="Rails, view, blob#show" name="analytics-event" />
 
@@ -44,7 +44,7 @@
 
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="zGkPis14LgPkqcPhAlgc4t5isUYO+ELl629Am2JC+utZeBvGYBOyzrGqWoO5ZwZoSJe86aJUEmk2XUMzE6bxVA==" name="csrf-token" />
+<meta content="q22fSxYbgpQsOVTMsvKtg928+3S0A+UDFkKufTR0FC3GUmu+E4H9oUR8sJk5GudDd6VqWgTPOnkveNSv4YMEkg==" name="csrf-token" />
 
     <link href="https://assets-cdn.github.com/assets/github-9bcf5def7eb44e2a101b20aaecf3707f4b0a10ab8f4d6eebec29371f821c4b29.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://assets-cdn.github.com/assets/github2-47bc67324d463c7cecb5ee4c009628c91db85b0e9288a9e663f2d06ff9e03088.css" media="all" rel="stylesheet" type="text/css" />
@@ -164,7 +164,7 @@
   </li>
 
   <li class="header-nav-item">
-    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3J5u/tOns2uVoQQxa06lIj+aHR6C3KVw7WiGQLATJpg16g6tEh+muzBlD+Rb0DiebTx5IujdUSZtGaEavmMhqA==" /></div>
+    <form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="s8M3QjI7b1Fx736mpJF4OQAq8pKKCyREgncyaPjyK6OpPUjiPg8AeN3o821KzGgGaQacwMfZ9Z5BjDmq/2wYfA==" /></div>
       <button class="header-nav-link sign-out-button tooltipped tooltipped-s" aria-label="Sign out" data-ga-click="Header, sign out, icon:logout">
         <span class="octicon octicon-sign-out"></span>
       </button>
@@ -221,7 +221,7 @@ Email verification helps our support team verify ownership if you lose account a
 <ul class="pagehead-actions">
 
     <li class="subscription">
-      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ApNtC3mp8gYKx1nCjEtgOEIgnlHaDZlBbQXhnOhG7VfPv3bwSxAtf8aCy0UCfq0rf98wYgyAyEWJgxxhzE6LYA==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19213479" />
+      <form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+8pava5GoaY9ZGLhVYgRZh7/paggMubkK+PUpwJbLz31iaU/O5Y42p3mOO2cjcptsXUx9BJX8o9Zl+DiCiEQ3g==" /></div>  <input id="repository_id" name="repository_id" type="hidden" value="19213479" />
 
     <div class="select-menu js-menu-container js-select-menu">
       <a class="social-count js-social-count" href="/hglennrock/getting-cleaning-data-project/watchers">
@@ -296,7 +296,7 @@ Email verification helps our support team verify ownership if you lose account a
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="FNjHXloh3rsApovTmvjQ3qAD3+wbvVUfCesQDoH79LSnhkxU7954N6YEZHHVxt0osIVFpffUDTqqSlXTAT6nKw==" /></div>
+    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/unstar" class="js-toggler-form starred js-unstar-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ksjbF59xiFqZq2IQs3dzs+r6oT9VwB2+N4HdUlkBWazZ+rkHbu4zrteME3bx2O3okzlAFr3OK6EKZHGpjVvY1g==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Unstar this repository" title="Unstar hglennrock/getting-cleaning-data-project">
@@ -307,7 +307,7 @@ Email verification helps our support team verify ownership if you lose account a
           0
         </a>
 </form>
-    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="80NyQW6VjTyL6EzhmAMFvWX/bK4eGQ3yBNjNZUAXQteFT1vLzqSJExf7wMeEG+7R0kydRJnolz+xCaigkMKNeg==" /></div>
+    <form accept-charset="UTF-8" action="/hglennrock/getting-cleaning-data-project/star" class="js-toggler-form unstarred js-star-button" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ju16RhfBOlU4+CNqUnPeYTNXxtOTQsWidrt48XZvkTa9o0CxGak6sVvBAAaQZYsNpETAHS12IFC9W4H5MdKkRA==" /></div>
       <button
         class="minibutton with-count js-toggler-target star-button"
         aria-label="Star this repository" title="Star hglennrock/getting-cleaning-data-project">
@@ -474,9 +474,9 @@ Email verification helps our support team verify ownership if you lose account a
         <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
           
 
-<a href="/hglennrock/getting-cleaning-data-project/blob/cabd30fca5dbdd8c633f40018e8490eb4c046040/README.md" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/hglennrock/getting-cleaning-data-project/blob/cabd30fca5dbdd8c633f40018e8490eb4c046040/CodeBook.MD" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:eadeee12ae95dace6497974ac782f205 -->
+<!-- blob contrib key: blob_contributors:v21:cfa99c2cf1baab75256b88a9b6361b3e -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -522,7 +522,7 @@ Email verification helps our support team verify ownership if you lose account a
 
             <div class="select-menu-item js-navigation-item selected">
               <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/hglennrock/getting-cleaning-data-project/blob/master/README.md"
+              <a href="/hglennrock/getting-cleaning-data-project/blob/master/CodeBook.MD"
                  data-name="master"
                  data-skip-pjax="true"
                  rel="nofollow"
@@ -559,7 +559,7 @@ Email verification helps our support team verify ownership if you lose account a
   </div>
 
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hglennrock/getting-cleaning-data-project" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">getting-cleaning-data-project</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/hglennrock/getting-cleaning-data-project" class="" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">getting-cleaning-data-project</span></a></span></span><span class="separator">/</span><strong class="final-path">CodeBook.MD</strong>
   </div>
 </div>
 
@@ -598,15 +598,15 @@ Email verification helps our support team verify ownership if you lose account a
   <div class="file">
     <div class="meta clearfix">
       <div class="info file-name">
-          <span>30 lines (21 sloc)</span>
+          <span>50 lines (37 sloc)</span>
           <span class="meta-divider"></span>
-        <span>1.683 kb</span>
+        <span>3.445 kb</span>
       </div>
       <div class="actions">
         <div class="button-group">
-          <a href="/hglennrock/getting-cleaning-data-project/raw/master/README.md" class="minibutton " id="raw-url">Raw</a>
-            <a href="/hglennrock/getting-cleaning-data-project/blame/master/README.md" class="minibutton js-update-url-with-hash">Blame</a>
-          <a href="/hglennrock/getting-cleaning-data-project/commits/master/README.md" class="minibutton " rel="nofollow">History</a>
+          <a href="/hglennrock/getting-cleaning-data-project/raw/master/CodeBook.MD" class="minibutton " id="raw-url">Raw</a>
+            <a href="/hglennrock/getting-cleaning-data-project/blame/master/CodeBook.MD" class="minibutton js-update-url-with-hash">Blame</a>
+          <a href="/hglennrock/getting-cleaning-data-project/commits/master/CodeBook.MD" class="minibutton " rel="nofollow">History</a>
         </div><!-- /.button-group -->
 
           <a class="octicon-button tooltipped tooltipped-nw"
@@ -616,11 +616,11 @@ Email verification helps our support team verify ownership if you lose account a
 
               <a class="octicon-button tooltipped tooltipped-n js-update-url-with-hash"
                  aria-label="Clicking this button will fork this project so you can edit the file"
-                 href="/hglennrock/getting-cleaning-data-project/edit/master/README.md"
+                 href="/hglennrock/getting-cleaning-data-project/edit/master/CodeBook.MD"
                  data-method="post" rel="nofollow"><span class="octicon octicon-pencil"></span></a>
 
             <a class="octicon-button danger tooltipped tooltipped-s"
-               href="/hglennrock/getting-cleaning-data-project/delete/master/README.md"
+               href="/hglennrock/getting-cleaning-data-project/delete/master/CodeBook.MD"
                aria-label="Fork this project and delete file"
                data-method="post" data-test-id="delete-blob-file" rel="nofollow">
           <span class="octicon octicon-trashcan"></span>
@@ -634,39 +634,76 @@ Email verification helps our support team verify ownership if you lose account a
 
 <p>Heather Wade</p>
 
-<p>Repo for the submission of the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
+<h3>
+<a id="user-content-description" class="anchor" href="#description" aria-hidden="true"><span class="octicon octicon-link"></span></a>Description</h3>
+
+<p>Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.</p>
 
 <h3>
-<a id="user-content-overview" class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h3>
+<a id="user-content-source-data" class="anchor" href="#source-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Source Data</h3>
 
-<p>This project serves to demonstrate the collection and cleaning of a tidy data set that can be used for subsequent
-analysis. A full description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Repository</a></p>
+<p>A full description of the data used in this project can be found at <a href="http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones">The UCI Machine Learning Repository</a></p>
 
 <p><a href="https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip">The source data for this project can be found here.</a></p>
 
 <h3>
-<a id="user-content-making-modifications-to-this-script" class="anchor" href="#making-modifications-to-this-script" aria-hidden="true"><span class="octicon octicon-link"></span></a>Making Modifications to This Script</h3>
+<a id="user-content-data-set-information" class="anchor" href="#data-set-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Data Set Information</h3>
 
-<p>Once you have obtained and unzipped the source files, you will need to make one modification to the R file before you can process the data.
-Note that on line 26 of run_analysis.R, you will set the path of the working directory to relect the location of the source files
-in your own directory.</p>
+<p>The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. </p>
 
-<h3>
-<a id="user-content-project-summary" class="anchor" href="#project-summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Project Summary</h3>
-
-<p>The following is a summary description of the project instructions</p>
-
-<p>You should create one R script called run_analysis.R that does the following. 
-1. Merges the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive activity names. 
-5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. </p>
+<p>The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.</p>
 
 <h3>
-<a id="user-content-additional-information" class="anchor" href="#additional-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Additional Information</h3>
+<a id="user-content-attribute-information" class="anchor" href="#attribute-information" aria-hidden="true"><span class="octicon octicon-link"></span></a>Attribute Information</h3>
 
-<p>You can find additional information about the variables, data and transformations in the CodeBook.MD file.</p>
+<p>For each record in the dataset it is provided: </p>
+
+<ul>
+<li>Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration. </li>
+<li>Triaxial Angular velocity from the gyroscope. </li>
+<li>A 561-feature vector with time and frequency domain variables. </li>
+<li>Its activity label. </li>
+<li>An identifier of the subject who carried out the experiment.</li>
+</ul>
+
+<h3>
+<a id="user-content-section-1-merge-the-training-and-the-test-sets-to-create-one-data-set" class="anchor" href="#section-1-merge-the-training-and-the-test-sets-to-create-one-data-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 1. Merge the training and the test sets to create one data set.</h3>
+
+<p>After setting the source directory for the files, read into tables the data located in</p>
+
+<ul>
+<li>features.txt</li>
+<li>activity_labels.txt</li>
+<li>subject_train.txt</li>
+<li>x_train.txt</li>
+<li>y_train.txt</li>
+<li>subject_test.txt</li>
+<li>x_test.txt</li>
+<li>y_test.txt</li>
+</ul>
+
+<p>Assign column names and merge to create one data set.</p>
+
+<h2>
+<a id="user-content-section-2-extract-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement" class="anchor" href="#section-2-extract-only-the-measurements-on-the-mean-and-standard-deviation-for-each-measurement" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 2. Extract only the measurements on the mean and standard deviation for each measurement.</h2>
+
+<p>Create a logcal vector that contains TRUE values for the ID, mean and stdev columns and FALSE values for the others.
+Subset this data to keep only the necessary columns.</p>
+
+<h2>
+<a id="user-content-section-3-use-descriptive-activity-names-to-name-the-activities-in-the-data-set" class="anchor" href="#section-3-use-descriptive-activity-names-to-name-the-activities-in-the-data-set" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 3. Use descriptive activity names to name the activities in the data set</h2>
+
+<p>Merge data subset with the activityType table to cinlude the descriptive activity names</p>
+
+<h2>
+<a id="user-content-section-4-appropriately-label-the-data-set-with-descriptive-activity-names" class="anchor" href="#section-4-appropriately-label-the-data-set-with-descriptive-activity-names" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 4. Appropriately label the data set with descriptive activity names.</h2>
+
+<p>Use gsub function for pattern replacement to clean up the data labels.</p>
+
+<h2>
+<a id="user-content-section-5-create-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject" class="anchor" href="#section-5-create-a-second-independent-tidy-data-set-with-the-average-of-each-variable-for-each-activity-and-each-subject" aria-hidden="true"><span class="octicon octicon-link"></span></a>Section 5. Create a second, independent tidy data set with the average of each variable for each activity and each subject.</h2>
+
+<p>Per the project instructions, we need to produce only a data set with the average of each veriable for each activity and subject</p>
 </article>
   </div>
 
@@ -708,7 +745,7 @@ in your own directory.</p>
     </a>
 
     <ul class="site-footer-links">
-      <li>&copy; 2014 <span title="0.04982s from github-fe135-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2014 <span title="0.05880s from github-fe128-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="/site/terms">Terms</a></li>
         <li><a href="/site/privacy">Privacy</a></li>
         <li><a href="/security">Security</a></li>
